@@ -1,6 +1,6 @@
 # password-generator
 
-visite the live website : https://password-generator012.herokuapp.com/
+visite the live website : https://passworddox.netlify.app/
 
 it looks awesome, and if you like it please give it a star
 
